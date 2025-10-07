@@ -1,5 +1,6 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+💫 Hi 👋, I'm MUHAMMAD SALEH HAYAT
+
+BSCS Student | Full Stack Web Developer | Agentic AI & AI Automation Enthusiast
 
 Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
