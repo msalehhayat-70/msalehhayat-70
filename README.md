@@ -129,24 +129,6 @@ A passionate **BS Computer Science** undergraduate at **KICSIT Sub-Campus, IST I
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msalehhayat-70&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalehhayat-70&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=msalehhayat-70&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎓 Academic Profile
 
 <div align="center">
