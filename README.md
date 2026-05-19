@@ -158,7 +158,7 @@ A passionate **BS Computer Science** undergraduate at **KICSIT Sub-Campus, IST I
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msalehhayat70@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msalehhayat-70)
 
-> 💡 *"The best way to predict the future is to build it — especially when AI is your co-pilot."*
+> 💡 *"You only lose when you give up on yourself."*
 
 </div>
 
